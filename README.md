@@ -10,6 +10,6 @@ GNU GLOBAL is a source code tagging system that works the same way across divers
 GNU GLOBAL is part of the GNU project, and is free software. You can freely copy, modify and redistribute this program under GNU GPL. 
 
 
-you can download the lastesd from
+you can download the lastest from
 
 [ftp://ftp.gnu.org/pub/gnu/global/](ftp://ftp.gnu.org/pub/gnu/global/)
